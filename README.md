@@ -1,3 +1,4 @@
+* try to modify it myself
 # LS-CNN
 PyTorch implementation of LS-CNN architecture from the paper
 
